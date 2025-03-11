@@ -15,7 +15,7 @@ pip install pypumpfun
 ## Quick Start
 
 ```python
-from pumpfun_api import Pumpfun
+from pypumpfun import Pumpfun
 
 # Initialize with your API key
 api = Pumpfun("YOUR_API_KEY")
