@@ -2,6 +2,8 @@
 
 Python wrapper for [pumpfun-scraper-api](https://rapidapi.com/domainfinderapi/api/pumpfun-scraper-api)
 
+[![PyPI Downloads](https://static.pepy.tech/badge/pypumpfun)](https://pepy.tech/projects/pypumpfun)
+
 ## Installation
 
 ```bash
