@@ -8,7 +8,7 @@ Python wrapper for [pumpfun-scraper-api](https://rapidapi.com/domainfinderapi/ap
 ## Installation
 
 ```bash
-pip install pumpfun-api
+pip install pypumpfun
 ```
 
 ## API Key Required
@@ -18,7 +18,7 @@ pip install pumpfun-api
 ## Quick Start
 
 ```python
-from pumpfun_api import Pumpfun
+from pypumpfun import Pumpfun
 
 # Initialize with your API key
 api = Pumpfun("YOUR_API_KEY")
